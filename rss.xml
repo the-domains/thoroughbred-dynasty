@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[THOROUGHBRED DYNASTY]]></title>
+        <description><![CDATA[THOROUGHBRED DYNASTY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 22:09:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A WORLDWIDE RACING ADVENTURE]]></title>
+            <description><![CDATA[<article><h1>A WORLDWIDE RACING ADVENTURE</h1><p>ICY SPIRIT GOES TO POST</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f385fa9f-5dde-455c-960c-c2ea68886984.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f385fa9f-5dde-455c-960c-c2ea68886984.jpg</link>
+            <guid isPermaLink="false">ab2feb08-df33-4a31-bdfb-40b065d697e3</guid>
+            <pubDate>Wed, 03 Aug 2016 22:09:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
